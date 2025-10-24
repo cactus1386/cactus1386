@@ -4,7 +4,6 @@
 🥉 **Bronze Medalist** – 1st National Artificial Intelligence Olympiad (Iran)  
 💬 Ask me about **Python, Machine Learning, Deep Learning, and AI Applications**  
 📱 Contact me: [@KhodeRadinam](https://t.me/KhodeRadinam) (Telegram) • 📧 **radinam1386@gmail.com**  
-⚡ *Why do programmers prefer dark mode? Because light attracts bugs!* 🐛  
 
 ---
 
