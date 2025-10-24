@@ -19,14 +19,11 @@ My main areas of interest and work include:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cactus1386&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cactus1386&theme=dark&hide_border=false)<br/>
 
 ---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
@@ -43,13 +40,6 @@ My main areas of interest and work include:
 - 🥈 **2nd Place** – Kibord Student Competition  
 - 🎓 **High school student passionate about AI research and ML applications**  
 - 💡 **Open-source contributor** in AI, OCR, and computer vision projects  
-
----
-
-# 🚀 Goals:
-- Master **Reinforcement Learning** and **Generative Models**  
-- Build AI systems that **learn, adapt, and understand**  
-- Contribute to **open-source ML frameworks and research**
 
 ---
 
